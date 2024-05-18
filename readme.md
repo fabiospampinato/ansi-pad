@@ -11,7 +11,7 @@ npm install --save ansi-pad
 ## Usage
 
 ```ts
-import {padStart, padRight} from 'ansi-pad';
+import {padStart, padEnd} from 'ansi-pad';
 
 // Let's pad a string in a width-aware way, handling ANSI escapes, emojis etc. specially
 
