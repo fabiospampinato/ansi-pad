@@ -5,7 +5,7 @@ A couple tiny functions for padding a string that may contain ANSI escape sequen
 ## Install
 
 ```sh
-npm install --save ansi-pad
+npm install ansi-pad
 ```
 
 ## Usage
