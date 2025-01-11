@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/ansi-pad",
   "description": "A couple tiny functions for padding a string that may contain ANSI escape sequences.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "sideEffects": false,
   "main": "dist/index.js",
