@@ -2,6 +2,7 @@
   "name": "ansi-pad",
   "repository": "github:fabiospampinato/ansi-pad",
   "description": "A couple tiny functions for padding a string that may contain ANSI escape sequences.",
+  "license": "MIT",
   "version": "1.0.0",
   "type": "module",
   "sideEffects": false,
@@ -24,11 +25,11 @@
     "right"
   ],
   "dependencies": {
-    "fast-string-width": "^1.0.5"
+    "fast-string-width": "^1.1.0"
   },
   "devDependencies": {
-    "fava": "^0.3.2",
-    "tsex": "^3.0.2",
-    "typescript": "^5.3.3"
+    "fava": "^0.3.4",
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
