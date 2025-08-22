@@ -25,7 +25,7 @@
     "right"
   ],
   "dependencies": {
-    "fast-string-width": "^2.0.0"
+    "fast-string-width": "^3.0.1"
   },
   "devDependencies": {
     "fava": "^0.3.4",
